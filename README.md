@@ -1,4 +1,4 @@
-# IBM Professional Data Science Course
+# Dual Course: EMC2 Data Scientist & Big Data Analytics & IBM Professional Data Science Course
 [![IBM Data Scientist](https://img.shields.io/badge/IBM%20Data%20Scientist-Professional-blue)](https://credentials.edx.org/credentials/7a4b5b0484054419832be81568f80ce8/)
 ![Python Proficiency](https://img.shields.io/badge/PYTHON-Professional-red)
 [![Data Science proficiency](https://img.shields.io/badge/Data%20Science-Professional-red)](https://credentials.edx.org/credentials/7a4b5b0484054419832be81568f80ce8/)
@@ -26,7 +26,10 @@ Machine Learning can be an incredibly beneficial tool to uncover hidden insights
 - Python most popular language for data science (KDnuggets-
 - Data Science and Analytics professionals have average starting salary of over $80,000 in the US.
 
-# Certificate
+# Certificate(s)
+## EMC2 Dell Academic Associate Data Scientist & Big Data Analytics
+![](https://tinyurl.com/2c79ufxr)
+## IBM Professional Data Science
 ![](https://github.com/AI-Ahmed/IBM_DS/blob/main/Certificate.PNG)
 
 # Course Reference
