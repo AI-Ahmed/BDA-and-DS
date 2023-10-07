@@ -1,5 +1,6 @@
 # Dual Course: EMC2 Data Scientist & Big Data Analytics & IBM Professional Data Science Course
 [![IBM Data Scientist](https://img.shields.io/badge/IBM%20Data%20Scientist-Professional-blue)](https://credentials.edx.org/credentials/7a4b5b0484054419832be81568f80ce8/)
+[![EMC2 Data Scientist](https://img.shields.io/badge/EMC2%20Data%20Scientist-BigData-blue)](https://tinyurl.com/2c79ufxr)
 ![Python Proficiency](https://img.shields.io/badge/PYTHON-Professional-red)
 [![Data Science proficiency](https://img.shields.io/badge/Data%20Science-Professional-red)](https://credentials.edx.org/credentials/7a4b5b0484054419832be81568f80ce8/)
 ![ML Proficiency](https://img.shields.io/badge/Machine%20Learning-Professional-red)
