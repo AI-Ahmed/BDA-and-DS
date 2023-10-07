@@ -24,7 +24,7 @@ Machine Learning can be an incredibly beneficial tool to uncover hidden insights
 
 # Job Outlook
 - Over 2.5 million jobs in data science and related professions (Burning Glass)
-- Python most popular language for data science (KDnuggets-
+- Python most popular language for data science.
 - Data Science and Analytics professionals have average starting salary of over $80,000 in the US.
 
 # Certificate(s)
