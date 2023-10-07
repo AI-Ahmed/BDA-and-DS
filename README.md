@@ -4,7 +4,7 @@
 [![Data Science proficiency](https://img.shields.io/badge/Data%20Science-Professional-red)](https://credentials.edx.org/credentials/7a4b5b0484054419832be81568f80ce8/)
 ![ML Proficiency](https://img.shields.io/badge/Machine%20Learning-Professional-red)
 
-IBM Professional Data Science course in #python #ml #datascience
+#python #ml #datascience #bigdata #mathematics #statistics #probability
 
 # Overview
 Data is at the heart of our digital economy and data science has been ranked as the hottest profession of the 21st century. Whether you are new to the job market or already in the workforce and looking to upskill yourself, this five course Data Science with Python Professional Certificate program is aimed at preparing you for a career in data science and machine learning. No prior computer programming experience required!
