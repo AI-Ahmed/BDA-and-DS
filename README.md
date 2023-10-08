@@ -27,6 +27,10 @@ Machine Learning can be an incredibly beneficial tool to uncover hidden insights
 - Python most popular language for data science.
 - Data Science and Analytics professionals have average starting salary of over $80,000 in the US.
 
+# Instructors
+- Prof. dr. Mohammed Kholief
+- Eng. Ahmed Nabil
+  
 # Certificate(s)
 ## EMC2 Dell Academic Associate Data Scientist & Big Data Analytics
 ![](https://tinyurl.com/2c79ufxr)
