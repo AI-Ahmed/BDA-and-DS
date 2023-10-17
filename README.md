@@ -33,7 +33,7 @@ Machine Learning can be an incredibly beneficial tool to uncover hidden insights
   
 # Certificate(s)
 ## EMC2 Dell Academic Associate Data Scientist & Big Data Analytics
-![](https://tinyurl.com/2c79ufxr)
+![](https://github.com/AI-Ahmed/IBM_DS/blob/main/Certificate_EMC2.jpg)
 ## IBM Professional Data Science
 ![](https://github.com/AI-Ahmed/IBM_DS/blob/main/Certificate.PNG)
 
